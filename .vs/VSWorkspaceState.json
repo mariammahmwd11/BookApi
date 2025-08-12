@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookApi",
+    "\\BookApi\\bin",
+    "\\BookApi\\Data",
+    "\\BookApi\\Filters",
+    "\\BookApi\\Middleware",
+    "\\BookApi\\Models",
+    "\\BookApi\\obj"
+  ],
+  "SelectedNode": "\\BookApi\\Controllers",
+  "PreviewInSolutionExplorer": false
+}
